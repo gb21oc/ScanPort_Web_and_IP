@@ -3,7 +3,7 @@
 import socket
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-host = "192.168.0.22"
+host = "ip_you"
 port = 443
 
 def portScanner(port):
